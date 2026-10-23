@@ -1,6 +1,6 @@
 name: check
 on:
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "17 * * * *"}]
   workflow_dispatch:
 permissions:
   contents: write
